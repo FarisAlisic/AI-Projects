@@ -1,0 +1,13 @@
+Subject: Project Update - Q2 Progress
+
+Dear Team,
+
+I hope this message finds you well.
+
+I wanted to provide you with a brief update on our progress for the second quarter. The development team has completed 75% of the new dashboard features and we are on track to begin testing by the end of next week. Please ensure that all documentation is updated by Friday so we can prepare for the client presentation scheduled for the 28th.
+
+Let me know if there are any blockers or if you need support from other departments.
+
+Best regards,
+Julia Morrison
+Product Manager
