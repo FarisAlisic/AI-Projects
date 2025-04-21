@@ -1,1 +1,1 @@
-still work in progress, soon to be finished
+code works but still work in progress, can be improved, soon to be finished,
